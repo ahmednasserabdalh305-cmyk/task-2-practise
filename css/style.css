@@ -1,0 +1,21 @@
+ .main-section{
+ background-image: url(../media/WhatsApp\ Image\ 2026-10-13\ at\ 10.18.04\ PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.color{
+    background-color: #F7D6D9;
+}
+.color2{
+    background-color: #D4EDDA;
+}
+
+.size{
+font-size: 50px;
+
+} 
+ 
